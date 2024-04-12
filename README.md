@@ -2,9 +2,8 @@
 
 # 👋🏻 Hi, WanpengXu here.
 
-* 🎈 Amateur CTFer
+* 🎓 Cyberspace Security department graduate at [🏫 SEU](https://www.seu.edu.cn/) (2023 - Now)
 * 🎓 Computer Science department undergraduate at [🏫 CUMT](http://www.cumt.edu.cn/) (2019 - 2023)
-* 🔐 major in Information Safety
 <!-- * 🐟 Just finished my internship at [Microsoft](https://careers.microsoft.com/) STCA -->
 <!-- * 🌱 Co-founder and main developer of [LibreOJ](https://loj.ac) -->
 * ❤️ Love Linux and open source software
